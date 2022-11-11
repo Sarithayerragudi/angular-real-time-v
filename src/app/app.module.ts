@@ -32,6 +32,7 @@ import { ContactComponent } from './contact/contact.component';
 import { CommentsComponent } from './comments/comments.component';
 import { FormsComponent } from './forms/forms.component';
 import { ProjectsComponent } from './projects/projects.component';
+import { GitComponent } from './git/git.component';
 
 
 
@@ -50,7 +51,8 @@ import { ProjectsComponent } from './projects/projects.component';
     ContactComponent,
     CommentsComponent,
     FormsComponent,
-    ProjectsComponent
+    ProjectsComponent,
+    GitComponent
   ],
   imports: [
     BrowserModule,
