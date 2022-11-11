@@ -1,0 +1,99 @@
+.mat-stepper-horizontal {
+    margin-top: 8px;
+    
+  }
+  .mat-form-field {
+    margin-top: 16px;
+  }
+.example-card{
+    max-width: 950px;
+    margin-bottom: 100px;
+}
+.example-full-width{
+    width: 90%;
+}
+.basic{
+    word-spacing: 3px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+.nxt-1{
+    margin-top: 20px;
+    border-radius: 25px;
+    margin-right: 16px;
+    height: 40px;
+    width: 100px;
+    background-color: black;
+   
+}
+.nxt-2{
+    border-radius: 25px;
+    height: 40px;
+    width: 100px;
+}
+.nxt-3{
+    float: right;
+}
+.nxt-4{
+    float: right;
+    margin-right: 75px;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+/* saritha send it */
+
+  .main {
+    margin-left: 20px;
+}
+.color{
+    color: blue;
+}
+.fw{
+    color: blak;
+    font-size:35px;
+}
+.main{
+    margin-top: 30px;
+}
+.link{
+    margin-left: 20px;
+
+}
+.bar{
+   border-bottom:grey;
+    margin-top: 40px;
+}
+.content{
+    margin-left: 20px;
+    letter-spacing: 1px;
+}
+.content1{
+    margin-left: 20px;
+    letter-spacing: 1px;
+}
+.link{
+    margin-left: 20px;
+}
+.hs{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.mat-stepper-horizontal {
+    margin-top: 8px;
+  }
+  
+  .mat-form-field {
+    margin-top: 16px;
+  }
+  .clr{
+    background-color: rgb(20, 119, 152);
+  }
+  .example-card{
+    background-color: aqua;
+  }
