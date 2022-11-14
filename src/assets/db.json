@@ -111,6 +111,14 @@
       "password": "sari123",
       "phonenumber": "6305339889",
       "id": 14
+    },
+    {
+      "firstname": "paddu",
+      "lastname": "yeragudi",
+      "email": "paddu@gmail.com",
+      "password": "pa12",
+      "phonenumber": "3456789875",
+      "id": 15
     }
   ],
   "basic": [
