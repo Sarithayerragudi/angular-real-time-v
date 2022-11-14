@@ -18,15 +18,23 @@
                                     <label>Email</label>
                                 </div>
                                 <input formControlName="email" type="email" class="form-control" placeholder="Your Email address">
+                                <div *ngIf="(loginForm.controls['email'].touched||submitted)&&loginForm.get('email')?.hasError('required')"
+                                class="tex-color">* email is required</div>
+                                <div *ngIf="(loginForm.controls['email'].touched||submitted)&&loginForm.get('email')?.hasError('email')"
+                                class="tex-color">* email invalid is required</div>
                                 <div class="row-md-3 mt-3 mb-2">
+                                    
                                     <label> password</label>
                                 </div>
                                 <input formControlName="password" type="password" class="form-control" placeholder="Your password">
+                                <div *ngIf="(loginForm.controls['password'].touched||submitted)&&loginForm.get('password')?.hasError('required')"
+                                class="tex-color">* password invalid is required</div>
+                                
                             </div>
                         </div>
                         <!-- <h6 class="accept1 mt-4">Create account?<span class="term"><button class="log-in"
                             (click)="open()">Sign in</button></span></h6> -->
-                            <h6 class="accept1 mt-4"><a routerLink="/signup">Already registered?<span class="log-in">click to Signup</span> </a></h6>
+                            <h6 class="accept1 mt-4"><a routerLink="/signup">new user?<span class="log-in">click to Signup</span> </a></h6>
                 <button type="submit" class="btn btn-primary mt-3">Login</button>
                     </form>
                 </div>

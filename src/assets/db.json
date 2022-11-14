@@ -1,75 +1,75 @@
 {
   "signpusers": [
     {
-      "firstname": "paddu",
+      "firstname": "saritha",
       "lastname": "yeragudi",
-      "email": "raja@2gmail.com",
-      "password": "sari13",
-      "mobile": "6305339882",
+      "email": "sariyerragudi@gmail.com",
+      "password": "sari123",
+      "mobile": "6305339889",
       "id": 1
     },
     {
       "firstname": "saritha",
-      "lastname": "yeragudi",
+      "lastname": "yerragudi",
       "email": "sariyerragudi@gmail.com",
       "password": "sari123",
       "mobile": "6305339889",
       "id": 2
     },
     {
-      "firstname": "paddu",
-      "lastname": "yeragudi",
-      "email": "paddu@gmail.com",
-      "password": "paddu123",
-      "mobile": "9899999999",
+      "firstname": "bpreddy",
+      "lastname": "poreddy",
+      "email": "bp@gmail.com",
+      "password": "bp123",
+      "mobile": "3456789875",
       "id": 3
     },
     {
-      "firstname": "lavu",
-      "lastname": "lavnaya",
-      "email": "lavu@gmail.com",
-      "password": "lavu123",
-      "mobile": "9999999999",
+      "firstname": "",
+      "lname": "",
+      "email": "",
+      "password": "",
+      "phno": "",
       "id": 4
     },
     {
-      "firstname": "saritha",
-      "lastname": "yeragudi",
-      "email": "sariyerragudi@gmail.com",
-      "password": "sari123",
-      "mobile": "6305339889",
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "password": "",
+      "phonenumber": "",
       "id": 5
     },
     {
-      "firstname": "saritha",
-      "lastname": "yeragudi",
-      "email": "sariyerragudi@gmail.com",
-      "password": "sari123",
-      "mobile": "6305339889",
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "password": "",
+      "phonenumber": "",
       "id": 6
     },
     {
-      "firstname": "afrin",
-      "lastname": "proddutur",
-      "email": "afrin@gmail.com",
-      "password": "afrin13",
-      "mobile": "6305339889",
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "password": "",
+      "phonenumber": "",
       "id": 7
     },
     {
-      "firstname": "paddu",
-      "lastname": "padmaja",
-      "email": "paddu",
+      "firstname": "",
+      "lastname": "",
+      "email": "",
       "password": "",
-      "mobile": "",
+      "phonenumber": "6666666666",
       "id": 8
     },
     {
-      "firstname": "paddu",
-      "lastname": "padmaja",
-      "email": "paddu@gmail.com",
-      "password": "pa12",
-      "mobile": "6305339889",
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "password": "",
+      "phonenumber": "",
       "id": 9
     },
     {
@@ -77,120 +77,98 @@
       "lastname": "",
       "email": "",
       "password": "",
-      "mobile": "",
+      "phonenumber": "",
       "id": 10
-    },
-    {
-      "firstname": "saritha",
-      "lastname": "yeragudi",
-      "email": "sari@gmail.com",
-      "password": "sari123",
-      "mobile": "6305339889",
-      "id": 11
-    },
-    {
-      "firstname": "china",
-      "lastname": "lakshmi",
-      "email": "china@gmail.com",
-      "password": "china123",
-      "mobile": "6305339889",
-      "id": 12
-    },
-    {
-      "firstname": "paddu",
-      "lastname": "padmaja",
-      "email": "padu@gmail.com",
-      "password": "paddu123",
-      "mobile": "6305339889",
-      "id": 13
-    },
-    {
-      "firstname": "lavu",
-      "lastname": "lavnya",
-      "email": "lavu@gmail.com",
-      "password": "lav123",
-      "mobile": "3456789875",
-      "id": 14
-    },
-    {
-      "firstname": "sneha",
-      "lastname": "sneha",
-      "email": "sneha@gmail.com",
-      "password": "sneha123",
-      "mobile": "6543217898",
-      "id": 15
-    },
-    {
-      "firstname": "sam",
-      "lastname": "ak",
-      "email": "sam@gmail.com",
-      "password": "sam345",
-      "mobile": "8765432189",
-      "id": 16
-    },
-    {
-      "firstname": "sarith",
-      "lastname": "yeragud",
-      "email": "sariyerragudi@gmail.com",
-      "password": "sari435",
-      "mobile": "8765432180",
-      "id": 17
-    },
-    {
-      "firstname": "saritha",
-      "lastname": "yer",
-      "email": "",
-      "password": "",
-      "mobile": "",
-      "id": 18
-    },
-    {
-      "firstname": "saritha",
-      "lastname": "yeragudi",
-      "email": "sariyerragudi@gmail.com",
-      "password": "sari123",
-      "mobile": "8765432189",
-      "id": 19
-    },
-    {
-      "firstname": "saritha",
-      "lastname": "yeragudi",
-      "email": "sariyerragudi@gmail.com",
-      "password": "sari123",
-      "mobile": "3456789875",
-      "id": 20
-    },
-    {
-      "firstname": "sari",
-      "lastname": "saritha",
-      "email": "sari@gmail.com",
-      "password": "sari123",
-      "mobile": "6305339889",
-      "id": 21
     },
     {
       "firstname": "",
       "lastname": "",
       "email": "",
       "password": "",
-      "mobile": "",
-      "id": 22
+      "phonenumber": "",
+      "id": 11
     },
     {
-      "firstname": "vijay",
-      "lastname": "k",
-      "email": "",
-      "password": "",
-      "mobile": "",
-      "id": 23
+      "firstname": "Saritha ",
+      "lastname": "Yeragudi ",
+      "email": "sariyerragudi@gmail.com",
+      "password": "sari123",
+      "phonenumber": "6305339889",
+      "id": 12
     },
     {
-      "firstname": "vijay",
-      "lastname": "kumar",
-      "email": "vijay@gmail.com",
-      "password": "vijay",
-      "mobile": "9999999999",
-      "id": 24
+      "firstname": "Saritha ",
+      "lastname": "Yeragudi ",
+      "email": "sariyerragudi@gmail.com",
+      "password": "sari123",
+      "phonenumber": "6305339889",
+      "id": 13
+    },
+    {
+      "firstname": "saritha",
+      "lastname": "yeragudi",
+      "email": "sariyerragudi@gmail.com",
+      "password": "sari123",
+      "phonenumber": "6305339889",
+      "id": 14
+    }
+  ],
+  "basic": [
+    {
+      "firstCtrl": "saritha",
+      "emailCtrl": "sariyerragudi@gmail.com",
+      "city": "side",
+      "language": "over",
+      "id": 1
+    },
+    {
+      "firstCtrl": "vijay",
+      "emailCtrl": "vijay@gmail.com",
+      "city": "side",
+      "language": "side",
+      "id": 2
+    }
+  ],
+  "profiles": [
+    {
+      "fname": "sari",
+      "lname": "yeragudi",
+      "exam": "sarithayeragudi",
+      "area": "jdfklvjl",
+      "id": 1
+    },
+    {
+      "fname": "mani",
+      "lname": "kanta",
+      "exam": "main345",
+      "area": "this is mani",
+      "id": 2
+    }
+  ],
+  "notifications": [
+    {
+      "new": true,
+      "product": true,
+      "message": true,
+      "ever": "",
+      "good": "",
+      "notification": "",
+      "id": 1
+    },
+    {
+      "new": true,
+      "product": true,
+      "message": true,
+      "id": 2
+    },
+    {
+      "new": "",
+      "product": "",
+      "message": "",
+      "ever": "",
+      "good": "",
+      "notification": "",
+      "id": 3
     }
   ]
 }

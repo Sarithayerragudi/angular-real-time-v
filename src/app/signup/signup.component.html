@@ -20,77 +20,60 @@
                   <div class="col-md-10">
                     <div class="col-md-5 mt-3 mb-2">
                       <label for="firstName" class="fn">First Name</label>
+
                     </div>
-                    <input
-                      type="text"
-                      name="firstName"
-                      id="firstName"
-                      class="form-control"
-                      placeholder="Your First Name"
-                      formControlName="firstname"
-                    />
+                    <input type="text" name="firstName" id="firstName" class="form-control"
+                      placeholder="Your First Name" formControlName="firstname" />
+                      <div *ngIf="(signupForm.controls['firstname'].touched||submitted)&&signupForm.get('firstname')?.hasError('required')"
+                      class="tex-color">* First name is required</div>
                   </div>
                 </div>
                 <div class="row">
                   <div class="col-md-10">
                     <div class="col-md-5 mt-3 mb-2">
-                      <label for="lastName" class="fn">Last Name</label>
+                      <label for="lastName" class="fn" >Last Name</label>
                     </div>
-                    <input
-                      type="text"
-                      name="lastName"
-                      id="lastName"
-                      class="form-control"
-                      placeholder="Your Last Name"
-                      formControlName="lastname"
-                    />
+                    <input type="text" name="lastName" id="lastName" class="form-control" placeholder="Your Last Name"
+                      formControlName="lastname" />
+                      <div *ngIf="(signupForm.controls['lastname'].touched||submitted)&&signupForm.get('lastname')?.hasError('required')"
+                      class="tex-color">* last name is required</div>
                   </div>
                 </div>
               </div>
               <div class="row">
                 <div class="col-md-9">
                   <div class="row-md-3 mt-3 mb-2">
-                    <label for="email" class="fn">Email Address</label>
+                    <label for="email" class="fn" >Email Address</label>
                   </div>
-                  <input
-                    type="email"
-                    name="email"
-                    id="email"
-                    class="form-control"
-                    placeholder="Your Email Address"
-                    formControlName="email"
-                  />
+                  <input type="email" name="email" id="email" class="form-control" placeholder="Your Email Address"
+                    formControlName="email" />
+                    <div *ngIf="(signupForm.controls['email'].touched||submitted)&&signupForm.get('email')?.hasError('required')"
+                    class="tex-color">* email invalid is required</div>
                 </div>
               </div>
               <div class="row">
                 <div class="col-md-9">
                   <div class="row-md-3 mt-3 mb-2">
-                    <label for="password" class="fn">password</label>
+                    <label for="password" class="fn" >password</label>
+                    
+                    
+                    
                   </div>
-                  <input
-                    type="password"
-                    name="password"
-                    id="password"
-                    class="form-control"
-                    placeholder="Your password"
-                    formControlName="password"
-                  />
+                  <input type="password" name="password" id="password" class="form-control" placeholder="Your password"
+                    formControlName="password" />
+                    <div *ngIf="(signupForm.controls['password'].touched||submitted)&&signupForm.get('password')?.hasError('required')"
+                    class="tex-color">* password is not required</div>
                 </div>
               </div>
               <div class="row">
                 <div class="col-md-9">
                   <div class="row-md-3 mt-3 mb-2">
-                    <label for="phonenumber" class="fn">Phone Number</label>
+                    <label for="phonenumber" class="fn" >Phone Number</label>
                   </div>
-                  <input
-                    type="phonenumber"
-                    name="phonenumber"
-                    id="phonenumber"
-                    class="form-control"
-                    placeholder="Your Phone Number"
-                    maxlength="10"
-                    formControlName="mobile"
-                  />
+                  <input type="phonenumber" name="phonenumber" id="phonenumber" class="form-control"
+                    placeholder="Your Phone Number" maxlength="10" formControlName="phonenumber" />
+                    <div *ngIf="(signupForm.controls['phonenumber'].touched||submitted)&&signupForm.get('phonenumber')?.hasError('required')"
+                    class="tex-color">*phonenumber is not required</div>
                 </div>
               </div>
               <div class="row-md-2 mt-3">
@@ -113,8 +96,7 @@
               </div>
               <div class="row-md-1 mt-5 px-5">
                 <h6 class="accept1 px-5">
-                  <a routerLink="/login"
-                    >New user?<span class="log-in">click to Login</span>
+                  <a routerLink="/login">Already registered?<span class="log-in">click to Login</span>
                   </a>
                 </h6>
               </div>
