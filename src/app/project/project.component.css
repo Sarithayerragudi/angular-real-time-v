@@ -1,0 +1,189 @@
+.container {
+    width: 100%;
+    height: 250px;
+    
+}
+
+.cont {
+    display: flex;
+    padding: 50px;
+}
+
+.cont1 img {
+    width: 110px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+#home1 {
+    padding-top: 40px;
+    background-color: rgba(184, 208, 248, 0.5);
+}
+.cont2 {
+    padding: 20px;
+    padding-top: 23px;
+}
+
+.cont2 i {
+    color: gray;
+    font-size: 15px;
+    margin-right: 10px;
+}
+
+.cont3 {
+    margin-left: 50px;
+    padding: 20px;
+    padding-top: 35px;
+}
+
+.mess {
+    background-color: black;
+    color: white;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    margin-right: 15px;
+    border: none;
+    margin-bottom: 10px;
+}
+
+.mess i {
+    margin-right: 5px;
+}
+
+.set {
+    background-color: blue;
+    color: white;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    margin-right: 15px;
+    border: none;
+
+}
+
+.set i {
+    margin-right: 5px;
+}
+
+#box p {
+    font-size: 14px;
+
+}
+
+#box p i {
+    margin-left: 150px;
+    font-size: 20px;
+}
+
+#box h5 {
+    font-size: 70px;
+    font-weight: 700;
+    color: lightseagreen;
+    margin: 25px;
+    text-align: center;
+}
+
+#box h6 {
+    text-align: center;
+    font-size: 15px;
+    color: lightseagreen;
+
+}
+
+.pp {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.bb {
+    background-color: rgba(184, 208, 248, 0.5);
+  
+}
+#bigbox {
+    padding:  30px;
+    margin-left: 70px;
+ 
+}
+
+.main h3 {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.border {
+    border-bottom: 1px solid gray;
+}
+
+#icon1 {
+    float: right;
+    font-size: 20px;
+    margin: 15px;
+
+}
+
+#icon i {
+    color: gray;
+}
+
+#icon p i {
+    margin-right: 10px;
+}
+
+#icon p {
+    color: gray;
+}
+
+#icon h5 {
+    font-size: 15px;
+}
+
+
+
+
+.userbox {
+    margin-top: 0px;
+    padding: 40px;
+}
+
+.user {
+    display: flex;
+    text-align: center;
+    margin: 20px;
+    justify-content: space-around;
+}
+#use {
+    margin-right: 20px;
+}
+#use img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+#use h4 {
+    padding-top: 20px;
+    font-size: 15px;
+    font-weight: 500;
+}
+#use p {
+    color: gray;
+}
+
+.mail a {
+    position: relative;
+    top: 50px;
+    text-decoration: none;
+    margin-right: 15px;
+    margin-left: 15px;
+    font-size: 15px;
+}
+.mail a i {
+    margin-right: 5px;
+}
+.staff {
+    background-color: rgba(184, 208, 248, 0.5);
+    padding: 40px;
+}
+mat-tab label{
+    font-size: 25px;
+}
