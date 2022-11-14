@@ -5,7 +5,7 @@ import { CommentsComponent } from './comments/comments.component';
 import { ContactComponent } from './contact/contact.component';
 import { FormsComponent } from './forms/forms.component';
 import { LoginComponent } from './login/login.component';
-import { ProjectsComponent } from './projects/projects.component';
+import { ProjectComponent } from './project/project.component';
 import { SignupComponent } from './signup/signup.component';
 import { StudentdashboardComponent } from './studentdashboard/studentdashboard.component';
 
@@ -19,7 +19,7 @@ const routes: Routes = [
         {path:'contact',component:ContactComponent},
         {path:'comment',component:CommentsComponent},
         {path:'form',component:FormsComponent},
-        {path:'project',component:ProjectsComponent}
+        {path:'project',component:ProjectComponent}
     ]
 }
 ];

@@ -31,7 +31,7 @@ import { AccademyComponent } from './accademy/accademy.component';
 import { ContactComponent } from './contact/contact.component';
 import { CommentsComponent } from './comments/comments.component';
 import { FormsComponent } from './forms/forms.component';
-import { ProjectsComponent } from './projects/projects.component';
+import { ProjectComponent } from './project/project.component';
 
 
 
@@ -50,7 +50,7 @@ import { ProjectsComponent } from './projects/projects.component';
     ContactComponent,
     CommentsComponent,
     FormsComponent,
-    ProjectsComponent
+    ProjectComponent
   ],
   imports: [
     BrowserModule,
